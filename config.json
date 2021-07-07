@@ -1,0 +1,6 @@
+{
+  "token" : "",//ur bot token
+  "mid":"",//meme channel id
+  "pid":"",//pic channel id
+  "nid":""//neko channel id
+  }
