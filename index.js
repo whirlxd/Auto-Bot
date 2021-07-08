@@ -11,7 +11,7 @@ const client = new Client({
 
 
 client.once('ready', () => {
-	console.log(`Hi! im ready `);//credits to legend js for the logic
+	console.log(`Hi! im ready `);
 
 	
 
@@ -99,7 +99,7 @@ const sub = [
    let Embed = new Discord.MessageEmbed()
    .setColor(Color)
    .setImage('https://source.unsplash.com/random')
-   await pchannel.send(Embed).catch(console.error)
+   await pchannel.send(Embed).catch(console.error) please give me credits
 
 
 
